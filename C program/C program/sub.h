@@ -1,0 +1,12 @@
+int subtraction()
+{
+	int p,q,r;
+	printf("enter the value of 1st number\n");
+	scanf("%d",&p);
+	printf("enter the value of 2nd number\n");
+	scanf("%d",&q);
+	r=p+(~q+1);
+	printf("Subraction of %d and %d is : %d",p,q,r);
+	return 0;
+	
+}
