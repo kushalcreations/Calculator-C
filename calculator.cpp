@@ -21,7 +21,7 @@ int main()
 	printf("     # | | \\ \\     | |________| |     __________/ /   | |        | |   / /            \\ \\   | |_____________      #  \n");
 	printf("     # |_|  \\_\\    |____________|    |___________/    |_|        |_|  /_/              \\_\\  |_______________|     #  \n");
 	printf("     #____________________________________________________________________________________________________________#  \n");
-	printf("     # Copyright of Kushal Creations, 2022                                                                        #  \n");
+	printf("     # Copyright of Kushal Creations, 2024                                                                       #  \n");
 	printf("     # https://kushalcreations.github.io                                                                          #  \n");
 	printf("     # https://www.youtube.com/kushalcreations                                                                    #  \n");
 	printf("     #                                                                                                            #  \n");
